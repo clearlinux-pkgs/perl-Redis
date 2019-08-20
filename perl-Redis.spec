@@ -4,15 +4,15 @@
 #
 Name     : perl-Redis
 Version  : 1.995
-Release  : 1
+Release  : 2
 URL      : https://cpan.metacpan.org/authors/id/D/DA/DAMS/Redis-1.995.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/D/DA/DAMS/Redis-1.995.tar.gz
 Summary  : 'Perl binding for Redis database'
 Group    : Development/Tools
 License  : Artistic-2.0
 Requires: perl-Redis-license = %{version}-%{release}
-Requires: IO::Socket::Timeout
-Requires: Try::Tiny
+Requires: perl(IO::Socket::Timeout)
+Requires: perl(Try::Tiny)
 BuildRequires : buildreq-cpan
 BuildRequires : perl(ExtUtils::Config)
 BuildRequires : perl(ExtUtils::Helpers)
