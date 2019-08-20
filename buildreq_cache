@@ -1,0 +1,13 @@
+1.995
+perl(ExtUtils::Config)
+perl(ExtUtils::Helpers)
+perl(ExtUtils::InstallPaths)
+perl(IO::Socket::Timeout)
+perl(IO::String)
+perl(Module::Build::Tiny)
+perl(PerlIO::via::Timeout)
+perl(Test::Deep)
+perl(Test::Fatal)
+perl(Test::SharedFork)
+perl(Test::TCP)
+perl(Try::Tiny)
