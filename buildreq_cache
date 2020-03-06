@@ -1,11 +1,10 @@
-1.995
+1.996
 perl(ExtUtils::Config)
 perl(ExtUtils::Helpers)
 perl(ExtUtils::InstallPaths)
 perl(IO::Socket::Timeout)
 perl(IO::String)
 perl(Module::Build::Tiny)
-perl(PerlIO::via::Timeout)
 perl(Test::Deep)
 perl(Test::Fatal)
 perl(Test::SharedFork)
