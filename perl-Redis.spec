@@ -4,7 +4,7 @@
 #
 Name     : perl-Redis
 Version  : 1.996
-Release  : 4
+Release  : 5
 URL      : https://cpan.metacpan.org/authors/id/D/DA/DAMS/Redis-1.996.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/D/DA/DAMS/Redis-1.996.tar.gz
 Summary  : 'Perl binding for Redis database'
@@ -113,7 +113,7 @@ find %{buildroot} -type f -name '*.bs' -empty -exec rm -f {} ';'
 
 %files perl
 %defattr(-,root,root,-)
-/usr/lib/perl5/vendor_perl/5.30.1/Redis.pm
-/usr/lib/perl5/vendor_perl/5.30.1/Redis/Hash.pm
-/usr/lib/perl5/vendor_perl/5.30.1/Redis/List.pm
-/usr/lib/perl5/vendor_perl/5.30.1/Redis/Sentinel.pm
+/usr/lib/perl5/vendor_perl/5.30.2/Redis.pm
+/usr/lib/perl5/vendor_perl/5.30.2/Redis/Hash.pm
+/usr/lib/perl5/vendor_perl/5.30.2/Redis/List.pm
+/usr/lib/perl5/vendor_perl/5.30.2/Redis/Sentinel.pm
