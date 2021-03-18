@@ -4,7 +4,7 @@
 #
 Name     : perl-Redis
 Version  : 1.998
-Release  : 7
+Release  : 8
 URL      : https://cpan.metacpan.org/authors/id/D/DA/DAMS/Redis-1.998.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/D/DA/DAMS/Redis-1.998.tar.gz
 Summary  : 'Perl binding for Redis database'
@@ -113,7 +113,7 @@ find %{buildroot} -type f -name '*.bs' -empty -exec rm -f {} ';'
 
 %files perl
 %defattr(-,root,root,-)
-/usr/lib/perl5/vendor_perl/5.30.3/Redis.pm
-/usr/lib/perl5/vendor_perl/5.30.3/Redis/Hash.pm
-/usr/lib/perl5/vendor_perl/5.30.3/Redis/List.pm
-/usr/lib/perl5/vendor_perl/5.30.3/Redis/Sentinel.pm
+/usr/lib/perl5/vendor_perl/5.32.1/Redis.pm
+/usr/lib/perl5/vendor_perl/5.32.1/Redis/Hash.pm
+/usr/lib/perl5/vendor_perl/5.32.1/Redis/List.pm
+/usr/lib/perl5/vendor_perl/5.32.1/Redis/Sentinel.pm
