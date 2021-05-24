@@ -4,7 +4,7 @@
 #
 Name     : perl-Redis
 Version  : 1.998
-Release  : 11
+Release  : 12
 URL      : https://cpan.metacpan.org/authors/id/D/DA/DAMS/Redis-1.998.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/D/DA/DAMS/Redis-1.998.tar.gz
 Summary  : 'Perl binding for Redis database'
