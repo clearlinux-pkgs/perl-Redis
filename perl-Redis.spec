@@ -7,7 +7,7 @@
 #
 Name     : perl-Redis
 Version  : 2.000
-Release  : 25
+Release  : 26
 URL      : https://cpan.metacpan.org/authors/id/D/DA/DAMS/Redis-2.000.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/D/DA/DAMS/Redis-2.000.tar.gz
 Summary  : 'Perl binding for Redis database'
